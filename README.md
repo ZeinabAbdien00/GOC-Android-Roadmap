@@ -13,21 +13,24 @@ A roadmap for android developers that can guide you from programming language an
 
 # 📘 Why should you learn Android development?
 
-### With a global presence on over 3 billion Android devices, spanning smartphones 📱, TVs 📺, smartwatches ⌚, cars 🚗, and more, Android app development is indispensable for businesses looking to reach 3.6 billion users worldwide.</p>
+### With a global presence on over 3 billion Android devices, Android has been the best-selling mobile operating system worldwide in the last decade. However, it is not just a smartphone OS anymore. It powers many other things, like Android Wear, e-Readers, Google Glass, and Android TV. For all of these devices, the development fundamentals are pretty much the same as they all are powered by Android. .</p> 
+
+# 🔖 Now you can take a look to our Roodmap:
  
- 
- #  Levels is.....
+ #  Levels are.....
  <ul>
 
 <li>
+Programming language and OOP level
+</li>
+<li>
 Basic level
 </li>
-
 <li>
 Intermidate level
 </li>
 <li>
-Advanced advanced
+Advanced level
 </li>
 </ul>
 
