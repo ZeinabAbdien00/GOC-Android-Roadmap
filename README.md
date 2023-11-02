@@ -38,8 +38,18 @@ Advanced level
 
 <div align="center"> <h1>  🔹 we will start with Programming language and OOP level</h1> </div>
 
+## Start with Kotlin:
 <h2>so why kotlin ...</h2>
 At Google I/O 2019, we announced that Android development will be increasingly Kotlin-first, and we’ve stood by that commitment. Kotlin is an expressive and concise programming language that reduces common code errors and easily integrates into existing apps. If you’re looking to build an Android app, we recommend starting with Kotlin to take advantage of its best-in-class features .. <a href="https://developer.android.com/kotlin/first" rel="nofollow">Learn More</a>
+
+### You can learn about them from these resources:
+
+<code>Arabic:</code></h4>
+<ul dir="auto">
+<li><a href="https://www.youtube.com/playlist?list=PLStwsNXljjnFHThSlJHnruWGvbpsLxmfx" rel="nofollow">Check this playlist</a> </li>
+</ul>
+<br>
+
 
 
 
