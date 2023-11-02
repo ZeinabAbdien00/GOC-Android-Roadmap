@@ -50,6 +50,13 @@ At Google I/O 2019, we announced that Android development will be increasingly K
 </ul>
 <br>
 
+<code>English:</code></h4>
+<ul dir="auto">
+<li><a href="https://www.udacity.com/course/kotlin-bootcamp-for-programmers--ud9011" rel="nofollow">Check this course (Udacity)</a> <em></em>
+<li><a href="https://www.youtube.com/playlist?list=PLVUm4IewkTXqwzuRXZisWg7shMTiQhUtz" rel="nofollow">Check this playlist </a> <em></em>
+
+<br>
+
 
 
 
