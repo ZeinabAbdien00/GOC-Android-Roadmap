@@ -1,6 +1,6 @@
 # 🤖 GOC-Android-Roadmap
 
-<img src="https://github.com/ZeinabAbdien00/GOC-Android-Roadmap/assets/105871085/db340c65-be7a-4ea2-b492-bc357ab923e1" width="1500" height="700">
+<img src="https://github.com/ZeinabAbdien00/GOC-Android-Roadmap/assets/105871085/db340c65-be7a-4ea2-b492-bc357ab923e1" width="1500" height="800">
 
 A roadmap for android developers that can guide you from programming language and oop then very basics of the track Sequentially to build your advanced android application.</p>
 <p dir="auto"><strong>Before we start our roodmap , we have to talk about:
@@ -39,7 +39,7 @@ Advanced level
 
 ## Start with Kotlin:
 
-<img src="https://github.com/ZeinabAbdien00/GOC-Android-Roadmap/assets/105871085/288d1ad6-f924-45b3-a909-4a534cfa855b" width="1500" height="500">
+<img src="https://github.com/ZeinabAbdien00/GOC-Android-Roadmap/assets/105871085/11d48db1-780f-4c90-80da-aba879058b76" width="1500" height="600">
 
 <h2>so why kotlin ...</h2>
 At Google I/O 2019, we announced that Android development will be increasingly Kotlin-first, and we’ve stood by that commitment. Kotlin is an expressive and concise programming language that reduces common code errors and easily integrates into existing apps. If you’re looking to build an Android app, we recommend starting with Kotlin to take advantage of its best-in-class features .. <a href="https://developer.android.com/kotlin/first" rel="nofollow">Learn More</a>
@@ -106,7 +106,7 @@ Object-oriented programming (OOP) is a computer programming model that organizes
 
 <div align="center"> <h1>  🔹 Now, we will learn basics of android level</h1> </div>
 
-<img src="https://github.com/ZeinabAbdien00/GOC-Android-Roadmap/assets/105871085/b2180247-2a68-471e-bdb4-84dd0cfa7bf0" width="1500" height="700">
+<img src="https://github.com/ZeinabAbdien00/GOC-Android-Roadmap/assets/105871085/07b83ed5-77be-427b-a018-d6515ce4ffff" width="1500" height="700">
 
 
 ## Start basics of android and dasign ui with XML , make custom shapes , ripples , activites , fragments and lifecycle
