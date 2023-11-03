@@ -107,6 +107,9 @@ Object-oriented programming (OOP) is a computer programming model that organizes
 
 <div align="center"> <h1>  🔹 Now, we will learn basics of android level</h1> </div>
 
+<img src="https://github.com/ZeinabAbdien00/GOC-Android-Roadmap/assets/105871085/b2180247-2a68-471e-bdb4-84dd0cfa7bf0" width="1500" height="700">
+
+
 ## Start basics of android and dasign ui with XML , make custom shapes , ripples , activites , fragments and lifecycle
 
 ### You can learn about them from these resources:
@@ -209,7 +212,7 @@ And now you are excellent at basics of android
 
 ----
 
-<div align="center"> <h1>  🔹 Welcome now to intermediate level  level</h1> </div>
+<div align="center"> <h1>  🔹 Welcome now to intermediate level </h1> </div>
 
 
 
