@@ -1,6 +1,6 @@
 # 🤖 GOC-Android-Roadmap
 
-<img src="https://github.com/ZeinabAbdien00/GOC-Android-Roadmap/assets/105871085/0117c6d0-f00d-4d56-b174-7e561303bf8e" width="1500" height="700">
+<img src="https://github.com/ZeinabAbdien00/GOC-Android-Roadmap/assets/105871085/db340c65-be7a-4ea2-b492-bc357ab923e1" width="1500" height="700">
 
 A roadmap for android developers that can guide you from programming language and oop then very basics of the track Sequentially to build your advanced android application.</p>
 <p dir="auto"><strong>Before we start our roodmap , we have to talk about:
