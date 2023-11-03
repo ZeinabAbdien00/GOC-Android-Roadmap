@@ -40,8 +40,7 @@ Advanced level
 
 ## Start with Kotlin:
 
-<img src="![kotlin](https://github.com/ZeinabAbdien00/GOC-Android-Roadmap/assets/105871085/0ec212f8-15ca-4f5b-bc12-19d39c16b71d)" width="1500" height="500">
-
+<img src="https://github.com/ZeinabAbdien00/GOC-Android-Roadmap/assets/105871085/288d1ad6-f924-45b3-a909-4a534cfa855b" width="1500" height="500">
 
 <h2>so why kotlin ...</h2>
 At Google I/O 2019, we announced that Android development will be increasingly Kotlin-first, and we’ve stood by that commitment. Kotlin is an expressive and concise programming language that reduces common code errors and easily integrates into existing apps. If you’re looking to build an Android app, we recommend starting with Kotlin to take advantage of its best-in-class features .. <a href="https://developer.android.com/kotlin/first" rel="nofollow">Learn More</a>
