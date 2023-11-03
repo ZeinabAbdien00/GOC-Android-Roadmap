@@ -207,7 +207,9 @@ Object-oriented programming (OOP) is a computer programming model that organizes
 </ul>
 <br>
 
-And now you are excellent at basics of android 
+And now you are excellent at basics of android , you can made good design , shapes , call attributes with data or view binding , intent between activities , save states on shared preferences , make beautiful recycler view and use these features on good android app 
+
+#### Good job ❤️
 
 ----
 
