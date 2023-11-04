@@ -108,7 +108,6 @@ Object-oriented programming (OOP) is a computer programming model that organizes
 
 <img src="https://github.com/ZeinabAbdien00/GOC-Android-Roadmap/assets/105871085/07b83ed5-77be-427b-a018-d6515ce4ffff" width="1500" height="700">
 
-
 ## Start basics of android and dasign ui with XML , make custom shapes , ripples , activites , fragments and lifecycle
 
 ### You can learn about them from these resources:
@@ -192,11 +191,26 @@ Object-oriented programming (OOP) is a computer programming model that organizes
 </ul>
 <br>
 
+<code>sound:</code></h4>
+<ul dir="auto">
+<li><a href="https://www.youtube.com/watch?v=N5OOZzJLNY4" rel="nofollow">Check this </a> 
+ <em></em>
+</ul>
+<br>
+
+<code>animation:</code></h4>
+<ul dir="auto">
+<li><a href="https://www.youtube.com/watch?v=tBYURrdahwE" rel="nofollow">Check this </a> 
+ <em></em>
+</ul>
+<br>
+
 ## Finally shared pereferences
 
 <code>Shared pereferences:</code></h4>
 <ul dir="auto">
-<li><a href="https://youtu.be/wtpRp2IpCSo?si=sSCTayb66b5JvTWX" rel="nofollow">Check this </a> <em></em>
+<li><a href="https://youtu.be/wtpRp2IpCSo?si=sSCTayb66b5JvTWX" rel="nofollow">Check this </a> 
+ <em></em>
 </ul>
 <br>
 
